@@ -1,2 +1,2 @@
-# DLithe-Research-Internship-Project
-DLithe ML Internship Projects
+# DLithe Internship Research Project
+
