@@ -8,6 +8,11 @@ Movie recommendation system has become popular over the last decade with the ris
 
 The key objective of the movie recommendation system is to design a reliable model, which with the help of 'Exploratory Data Analysis', provides the user with the means to pick the right movie for their weekend night movie session.
 
-Datasets: http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
 
-Reference: Assignment during Online Internship with DLithe(www.dlithe.com)
+
+
+### Datasets 
+http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
+
+### Reference
+Assignment during Online Internship with DLithe(www.dlithe.com)
