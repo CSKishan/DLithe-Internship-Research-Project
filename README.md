@@ -14,7 +14,7 @@ The key objective of the movie recommendation system is to design a reliable mod
 5. Using Correlation to find recommendations based on a movie
 
 ### Datasets 
-http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
+http://files.grouplens.org/datasets/movielens/
 
 ### Reference
 Assignment during Online Internship with DLithe(www.dlithe.com)
