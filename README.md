@@ -11,7 +11,7 @@ The key objective of the movie recommendation system is to design a reliable mod
 2. Cleaning and visualization of acquired datasets
 3. Data Processing
 4. Exploratory Data Analysis
-5. Recommendation System Designing
+5. Using Correlation to find recommendations based on a movie
 
 ### Datasets 
 http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
